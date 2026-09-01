@@ -28,10 +28,11 @@ creates image embeddings, stores them in a PostgreSQL database, and compares a n
 ## Installation
 
 In Google Colab, install the required libraries with:
+
 !pip install opencv-python numpy imgbeddings psycopg2-binary pillow
 
 Depending on the current version of imgbeddings, you may also need:
+
 !pip install "huggingface_hub==0.25.2"
 
-- psycopg2
 
