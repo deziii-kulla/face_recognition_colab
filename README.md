@@ -1,7 +1,6 @@
 # FACE RECOGNITION PROJECT 
 
-This is a beginner-friendly face recognition project built in Google Colab. The project detects faces from an image, saves the detected faces,
-creates image embeddings, stores them in a PostgreSQL database, and compares a new image with the stored faces to find the closest match.
+This is a beginner friendly face recognition project built in Google Colab. The project detects faces from an image, saves the detected faces, creates image embeddings, stores them in a PostgreSQL database, and compares a new image with the stored faces to find the closest match.
 
 ## What the Project Does
 
